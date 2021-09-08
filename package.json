@@ -1,0 +1,23 @@
+{
+  "name": "leetsolutions",
+  "version": "1.0.0",
+  "description": "Tests and solutions from leetcode practice problems",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhightnm/LeetSolutions.git"
+  },
+  "author": "Devin Hight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhightnm/LeetSolutions/issues"
+  },
+  "homepage": "https://github.com/dhightnm/LeetSolutions#readme"
+}
