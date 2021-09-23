@@ -7,3 +7,7 @@ test('Should remove duplicates from an array', () => {
 test('Should remove duplicates from an array', () => {
     expect(removeDuplicates([2, 2, 3, 4, 5, 5, 6, 6, 7, 7])).toEqual(6);
 });
+
+test('Should return 0 for and empty array', () => {
+    expect(removeDuplicates([])).toEqual(0);
+});
