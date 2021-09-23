@@ -13,3 +13,5 @@ var removeDuplicates = function(nums) {
     return index + 1;
     
 };
+
+module.exports = removeDuplicates;
