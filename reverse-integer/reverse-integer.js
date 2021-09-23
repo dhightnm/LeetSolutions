@@ -11,3 +11,5 @@ var reverse = function(x) {
   return reversedInt * Math.sign(x);
     
 };
+
+module.exports = reverse;
